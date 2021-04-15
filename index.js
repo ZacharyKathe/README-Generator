@@ -70,7 +70,7 @@ inquirer
 #### ${discription}
 
 
-##Table of contents
+## Table of contents
 * [Installation](#Installation)
 * [Contributers](#Contributers)
 * [Tests](#Tests)
