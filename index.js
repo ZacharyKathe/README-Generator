@@ -70,6 +70,7 @@ inquirer
 #### ${discription}
 
 
+
 ## Table of contents
 * [Installation](#Installation)
 * [Contributers](#Contributers)
@@ -77,8 +78,12 @@ inquirer
 * [Questions](#Questions)
 
 
+
+
 ## Installation
 #### ${installation}
+
+
 
 
 
@@ -86,15 +91,20 @@ inquirer
 ### ${contributing}
 
 
+
+
 ## Tests
 ### ${tests}
+
+
+
 
 
 
 ## Questions
 #### ${questions}
 ### [GitHub](${github})
-### [Email](${email})
+### [${email}](${email})
 ### [LinkedIn](${linkedIn})
 `
 
