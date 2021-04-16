@@ -25,7 +25,7 @@
 ## Installation
 #### Install npm and inquirer from the npm library inside the folder you want to work in. Then clone my repository, and right click on the index file like shown in this video!
 &nbsp;
-![demo video for installation](https://youtu.be/-FVp3Flqhuw)  
+![demo video for installation](https://youtu.be/TaGD6UcqS4k)  
 &nbsp;
 
 &nbsp;
