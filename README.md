@@ -6,7 +6,7 @@
 
 
 ## Discription
-#### Creates a Readme file for you so you can save time developing:)
+#### This creates a readme.md file for you so you can save time and develop the best app alive!
 &nbsp;
 
 &nbsp;
@@ -23,7 +23,7 @@
 
 &nbsp;
 ## Installation
-#### Install npm and inquirer from the npm library inside the folder you want to work in. Then clone my repository, and right click on the index file like shown in this video!
+#### Clone my repo for this readme generator in a folder. Then right click on the index,js file and open in the terminal.
 &nbsp;
 ![demo video for installation](https://youtu.be/TaGD6UcqS4k)  
 &nbsp;
