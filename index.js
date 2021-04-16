@@ -65,42 +65,43 @@ inquirer
 
 ## License
 ## ${license}
+&nbsp;
 
+&nbsp;
 ## Discription
 #### ${discription}
+&nbsp;
 
-
-
+&nbsp;
 ## Table of contents
 * [Installation](#Installation)
 * [Contributers](#Contributers)
 * [Tests](#Tests)
 * [Questions](#Questions)
+&nbsp;
 
 
-
-
+&nbsp;
 ## Installation
 #### ${installation}
+&nbsp;
 
 
 
-
-
+&nbsp;
 ## Contributors
 ### ${contributing}
+&nbsp;
 
 
-
-
+&nbsp;
 ## Tests
 ### ${tests}
+&nbsp;
 
 
 
-
-
-
+&nbsp;
 ## Questions
 #### ${questions}
 ### [GitHub](${github})
