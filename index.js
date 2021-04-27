@@ -47,6 +47,16 @@ inquirer
 },
 {
     type: 'input',
+    message: 'past a URL for a cover photo or file path for local photo:',
+    name: 'coverImg'
+},
+{
+    type: 'input',
+    message: 'past a Video URL or photo URL for an instruction video:',
+    name: 'instructVideo'
+},
+{
+    type: 'input',
     message: 'Questions?',
     name: 'questions'
 },
@@ -58,7 +68,7 @@ inquirer
 }  
 ])
 .then((response)=>{
-    const {title, discription, installation, email, github, contributing, tests, questions, linkedIn, license} = response;
+    const {title, discription, installation, email, github, contributing, tests, questions, linkedIn, license, coverImg, instructVideo} = response;
 
     const readMeOutput = `
 # ${title}
@@ -80,10 +90,13 @@ inquirer
 * [Questions](#Questions)
 &nbsp;
 
+![cover photo of readMe](${coverImg})
 
 &nbsp;
 ## Installation
 #### ${installation}
+&nbsp;
+![Demo video for install](${instructVideo})
 &nbsp;
 
 

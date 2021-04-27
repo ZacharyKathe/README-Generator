@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# Zachary readMe Generator
 
 ## License
 ## [![Do what u want WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
@@ -31,7 +31,7 @@
 
 &nbsp;
 ## Contributors
-### Me, Myself, and I.
+### Me, Myself, and I :)
 &nbsp;
 
 
@@ -46,5 +46,5 @@
 ## Questions
 #### 
 ### [GitHub](https://github.com/ZacharyKathe)
-### [zacharykathe@gmai.com](zacharykathe@gmai.com)
+### [zacharykathe@gmail.com](zacharykathe@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/zachary-kathe-621415189/)
